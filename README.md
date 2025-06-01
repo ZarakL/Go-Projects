@@ -1,2 +1,2 @@
 # Go-Projects
-Small Project written in the Go programming language for drawing geometry using interfaces
+Small Projects written in the Go programming language.
